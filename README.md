@@ -7,7 +7,7 @@ The server should include the concept of `Models`, which is a way of organizing 
 
 ## Requirements:
 
-- The server should be created using the Shelf and Dart.
+<!-- - The server should be created using the Shelf and Dart. -->
 - Use the data from the included file `posts.json`
 - The server should have an endpoint that queries the posts by entering the post's `id`.
 - The server should contain at least one model that represents the data being queried.
@@ -16,6 +16,8 @@ The server should include the concept of `Models`, which is a way of organizing 
 - The server should handle errors appropriately, returning meaningful error messages to the client.
 - You should use appropriate coding conventions and best practices.
 - Your code should be well-organized and easy to read.
+
+
 ## Assessment Criteria:
 
 Your code will be evaluated based on its functionality, efficiency, and readability.
